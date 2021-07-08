@@ -1,1 +1,1 @@
-# colegio-html
+# colegio.html
